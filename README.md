@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 ## 🚀 About Me
-I am a junior frontend developer. Every day I use my coding skills, improve them and learn something new. I believe that there is no limit to perfection and is necessary to study all life.
+I am a Junior Front-End developer. Every day I use my coding skills, improve them and learn something new. I believe that there is no limit to perfection and is necessary to study all life.
 
 
 ## 📫 Contacts
@@ -43,7 +43,7 @@ I am a junior frontend developer. Every day I use my coding skills, improve them
     <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="redux" height="25"/> 
   </a> 
   
-  <a href="" target="_blank" rel="noreferrer"> 
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Eslint-282C34?logo=eslint&logoColor=4B32C3" alt="redux" height="25"/> 
   </a> 
   
