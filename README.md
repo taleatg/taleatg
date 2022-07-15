@@ -63,6 +63,7 @@ I am a Junior Front-End developer. Every day I use my coding skills, improve the
     <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git" height="25"/> 
   </a> 
   
+  <!--- 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="25"/> 
   </a> 
@@ -74,6 +75,7 @@ I am a Junior Front-End developer. Every day I use my coding skills, improve the
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="graphql" height="25"/> 
   </a> 
+  --->
   
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=orange" alt="postman" height="25"/> 
